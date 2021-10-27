@@ -19,4 +19,9 @@ Used OpenCV skills to build a motion detector for a video camera . Took in 2 ima
 
 
 ## Face detector using opencv and haar cascades 
+
+Skills : Haar Cascades , OpenCV
+
+![image](https://user-images.githubusercontent.com/86561124/139127185-1447df21-8116-4fe7-ad8e-52442ebd8950.png)
+
 ## Image to text using opencv and pytesseract 
