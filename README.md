@@ -22,6 +22,13 @@ Used OpenCV skills to build a motion detector for a video camera . Took in 2 ima
 
 Skills : Haar Cascades , OpenCV
 
+Haar cascades source : https://github.com/anaustinbeing/haar-cascade-files
+
+Haar Cascades documentation : https://docs.opencv.org/4.5.3/db/d28/tutorial_cascade_classifier.html
+
+Haar Cascades is a library in python which is used along with opencv to detect face , eyes ... anything you want (and its haar cascade is availaible) in the image or video . 
+This library internally consists of trained machine learning models to detect the features .
+
 ![image](https://user-images.githubusercontent.com/86561124/139127185-1447df21-8116-4fe7-ad8e-52442ebd8950.png)
 
 ## Image to text using opencv and pytesseract 
