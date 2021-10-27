@@ -9,5 +9,13 @@ This deserves its own github page , hence here is the link : https://github.com/
 ![image](https://user-images.githubusercontent.com/86561124/138936084-40a43619-69d0-4138-b186-f9c00936bd4b.png)
 
 ## Motion Detector using opencv 
+
+Skills : OpenCV
+
+Used OpenCV skills to build a motion detector for a video camera . Took in 2 images at very small time gap , took absolute difference of them , performed image processing ( like converting to grayscale , gaussian blur , dilating , blurring ) on the difference image , then used find contours function to detect the moving objects (since the moving objects will be at different positions in the 2 images , the difference will be non zero ) , also found number of contours , thresholded the detected contours based on a certain area value , then drew a rectangle around the objects . then using the puttext function , wrote the number of objects detected , also wrote "something is moving " or "something is not moving " , and also an additional feature of giving warning if the moving object is close to the camera ( which would be when the area of the contour is very large compared to that of the screen )
+
+![image](https://user-images.githubusercontent.com/86561124/139123682-2cc6692a-dd6c-4473-b42b-a153a67efa2d.png)
+
+
 ## Face detector using opencv and haar cascades 
 ## Image to text using opencv and pytesseract 
