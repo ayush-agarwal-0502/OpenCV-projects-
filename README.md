@@ -32,3 +32,4 @@ This library internally consists of trained machine learning models to detect th
 ![image](https://user-images.githubusercontent.com/86561124/139127185-1447df21-8116-4fe7-ad8e-52442ebd8950.png)
 
 ## Image to text using opencv and pytesseract 
+To be added.
