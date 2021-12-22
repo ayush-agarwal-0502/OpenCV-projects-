@@ -30,6 +30,8 @@ Haar Cascades is a library in python which is used along with opencv to detect f
 This library internally consists of trained machine learning models to detect the features .
 
 ![image](https://user-images.githubusercontent.com/86561124/139127185-1447df21-8116-4fe7-ad8e-52442ebd8950.png)
+![image](https://user-images.githubusercontent.com/86561124/147070520-cfb270bc-9f97-4dc2-8def-a5ecb67c97e6.png)
+
 
 ## Image to text using opencv and pytesseract 
 
