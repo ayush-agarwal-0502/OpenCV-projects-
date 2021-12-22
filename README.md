@@ -32,4 +32,10 @@ This library internally consists of trained machine learning models to detect th
 ![image](https://user-images.githubusercontent.com/86561124/139127185-1447df21-8116-4fe7-ad8e-52442ebd8950.png)
 
 ## Image to text using opencv and pytesseract 
-To be added.
+
+Skills: OpenCV , PyTesseract 
+
+Pytesseract is a python library used to detect the words , characters in an image . I have printed the individual detected characters , as well as the complete words over the image .
+
+![image](https://user-images.githubusercontent.com/86561124/147068012-3359a39b-6bdd-48e6-93e7-e387441f7c92.png)
+
